@@ -26,7 +26,7 @@ Esto es un parafo ju89irfjcu8e9idiew90xwuifheduowqionchufkdjijdu8weosiciueovcj9o
 
 hfuejksjdjejfcuhdjcjidncmjddddddddddddvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvdvdv
 
-``
+```
 <HTML>
      <head>
      <head>
@@ -34,5 +34,6 @@ hfuejksjdjejfcuhdjcjidncmjddddddddddddvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
           <p> Esto es un codigo en HTML </p
      <body>
 <html>
-``
-[link](https://www.srv.net.fje.edu/net2/#/lanet "Enlace a la web del cole)     
+```
+[link](https://www.srv.net.fje.edu/net2/#/lanet "Enlace a la web del cole)
+
