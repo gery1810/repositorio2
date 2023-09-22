@@ -36,5 +36,5 @@ hfuejksjdjejfcuhdjcjidncmjddddddddddddvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 <html>
 ```
 
-[link](https://www.srv.net.fje.edu/net2/#/lanet "Enlace a la web del cole")
+[link](https://www.srv.net.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
 
