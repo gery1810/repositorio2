@@ -42,3 +42,13 @@ hfuejksjdjejfcuhdjcjidncmjddddddddddddvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 |----------|:----------:|----------:|
 |Col 2 es|centrada|$500|
 |Col 3 es|derecha|$1500|
+|Col 3 es|derecha|4€|
+|Final|Hola|300€|
+
+###### Exámen
+
+-[ ] Opción A
+
+-[ ] Opción B
+
+-[ ] Opción C
